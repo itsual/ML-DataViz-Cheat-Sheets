@@ -2,3 +2,4 @@
 Collection of machine learning data visualization related cheat sheets
 
 Compare algorithms - Just to show how regressors, classifiers, clustering and anomaly detection algorithm works.
+AI ML Services - Comparison table of AI & ML services between Microsoft Azure services, Amazon Web Services and Google Vertex AI
